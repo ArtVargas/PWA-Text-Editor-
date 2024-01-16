@@ -2,7 +2,7 @@
 The task is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. To build this text editor, you will start with an existing application and implement methods for getting and storing data to an IndexedDB database. All technical applications and capabilities all implement the use of PWA criteria which is enabled to be able to create a text editor that successfully runs in the browser. This challenge proved to be quite challenging and the most technical as it embodied a lot of research implementation. Lots of topics and information that was discovered all became new ground and really provided further gain of knowledge that was not accessed before most notably the topic of understanding the various PWA concepts and reaction webpack JavaScript components. This project stands apart on its own due to being a first time attempt at using a PWA text editor with existing application and data storage for further technical usage.
 
 # Live Screen Recording of Application Functionality
-[]()
+[Link of Screen Recording of Deployed Application](https://drive.google.com/file/d/1NGc1bXdKVqSH1vlCMVeRpAwiRkh-QpSN/view)
 
 # Resource URL
 [Link to Arrays](https://www.w3schools.com/js/js_array_methods.asp)
